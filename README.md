@@ -6,7 +6,7 @@
 
 </p>
 <p align="left">
-  - I am Computer Science enthusiast.<br>
+  -💻I am Computer Science enthusiast.<br>
 - 🚀Passionate about learning new software development technologies.<br>
 - 👨‍💻Experienced in Fullstack Development.<br>
  
